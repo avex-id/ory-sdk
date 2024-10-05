@@ -1,9 +1,0 @@
-npmName: "${NPM_NAME}-fetch"
-npmVersion: $VERSION
-# typescriptThreePlus: true
-supportsES6: true
-ensureUniqueParams: true
-modelPropertyNaming: original
-disallowAdditionalPropertiesIfNotPresent: false
-withInterfaces: false
-useSingleRequestParameter: true

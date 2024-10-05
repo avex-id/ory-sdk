@@ -1,6 +1,0 @@
-packageName: ${RUST_PACKAGE_NAME}
-packageVersion: $VERSION
-library: reqwest
-supportAsync: true
-enumNameSuffix: Enum
-disallowAdditionalPropertiesIfNotPresent: false

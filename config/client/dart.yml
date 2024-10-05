@@ -1,9 +1,0 @@
-pubAuthor: ORY GmbH
-pubAuthorEmail: opensource@ory.sh
-pubHomepage: https://www.ory.sh
-pubName: ${DART_PUB_NAME}
-pubDescription: ${DART_PUB_DESCRIPTION}
-pubRepository: ${DART_PUB_REPOSITORY}
-pubVersion: $RAW_VERSION
-
-disallowAdditionalPropertiesIfNotPresent: false
